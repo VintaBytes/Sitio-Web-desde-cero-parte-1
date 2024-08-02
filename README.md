@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e508c94b-771c-4ab4-8711-6ac3ed887081)# Desarrollo Web: Sitio Web Básico  (Parte 1 - HTML)
+# Desarrollo Web: Sitio Web Básico  (Parte 1 - HTML)
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></span>
