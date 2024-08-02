@@ -7,9 +7,11 @@ Este proyecto para principiantes muestra la creación de *un sitio web completo 
 
 Este es un proyecto simple, perfecto para principiantes que desean tener una base sólida en HTML y construir su propio sitio web desde cero.
 
-También he preparado un video, en el que te guiaré a través de los pasos necesarios para qué puedas crear tu propia web:  <a href="https://www.youtube.com/watch?v=4nMedfB-5aE">Desarrollo Web: Cómo Crear un Sitio Web Básico de Principio a Fin</a>
+También he preparado un video, en el que te guiaré a través de los pasos necesarios para qué puedas crear tu propia web:  
 
-<img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-parte-1/blob/main/portada.jpeg?raw=true">
+<a href="https://www.youtube.com/watch?v=4nMedfB-5aE">Desarrollo Web: Cómo Crear un Sitio Web Básico de Principio a Fin</a>
+
+<img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-parte-1/blob/main/portada.jpeg?raw=true" width="320px">
 
 ## Screenshot:
-<img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-parte-1/blob/main/screenshot.png?raw=true">
+<img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-parte-1/blob/main/screenshot.png?raw=true" width="320px">
